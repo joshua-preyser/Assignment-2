@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.zach.App",
+            "projectName": "Question2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - vehicle",
+            "request": "launch",
+            "mainClass": "vehicle",
+            "projectName": "Question2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Vehicle",
+            "request": "launch",
+            "mainClass": "com.zach.Vehicle",
+            "projectName": "Question2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Vehicle",
+            "request": "launch",
+            "mainClass": "com.zach.vehicle",
+            "projectName": "Question2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.daniel.App",
+            "projectName": "Question1"
+        }
+    ]
+}
